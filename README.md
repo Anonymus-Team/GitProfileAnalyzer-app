@@ -1,6 +1,7 @@
 # GitProfileAnalyzer-app
 ```
 For using you need node.js and python
+Before starting you need create folder 'repositories' to download all repositories in it
 Run index.js.
 Go to http//:localhost:3000/?git="your git repository" where git is input for run python code.
 To get input data in script.py you need:
